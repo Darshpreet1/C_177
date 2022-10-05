@@ -1,0 +1,61 @@
+/* Add font style and background color to the body */
+h1{
+    color: darkred;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#div2{
+    background-color: cyan;
+    color: black;
+}
+.copy-right-foter{
+    color: darkred;
+    font-family: fantasy;
+    background-color:white;
+    line-height: 2;
+    text-align:center;
+    padding-top: 20px;
+    text-shadow: 5px 5px 5px grey;
+    width: 100%;
+    position: fixed;
+    font-size: 20px;
+}
+button{
+    width: 30%;
+    font-weight: bold;
+    color: black;
+    margin: 30px;
+}
+
+
+
+
+
+/* Add style to the header div */
+
+
+
+
+
+/* Add style to the header p tag: */
+
+
+
+
+
+
+
+/* Add style to the button */
+
+
+
+
+
+
+
+/* Add style to the footer */
